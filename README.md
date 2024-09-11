@@ -42,3 +42,7 @@
 #### 🚀 Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+### 📄 더 많은 정보
+이 프로젝트에 대한 상세한 정보 및 문서들은 [Wiki](https://github.com/OurHomeRecipe/our-home-recipe-wiki/wiki)를 참조해 주세요. WIKI에는 공통 문서, 부서별 문서, 팀별 회의, 스크럼, 정기 회의 문서들이 포함되어 있습니다.
+
