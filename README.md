@@ -16,7 +16,6 @@
 - **이성오:** 프로덕트 매니저 & 백엔드 프로젝트 리더 - [블로그](https://elrdan.com)
 - **김현수:** 백엔드 개발자 - [블로그](https://soo-develop.tistory.com)
 - **정광우:** 백엔드 개발자 - [블로그](https://junggw96.tistory.com)
-- **민준혁:** 프론트 프로젝트 리더 - [블로그](https://velog.io/@alswnsgur119/posts)
 - **차현우:** 프론트 개발자 - [블로그](https://velog.io/@doggyfoot92)
 
 ### 🛠️ 기술 스택
@@ -33,10 +32,8 @@
 ![React Router DOM](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
-![JSON Server](https://img.shields.io/badge/JSON%20Server-323330?style=flat-square&logo=json&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
 
 #### 🚀 Deployment
