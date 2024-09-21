@@ -13,10 +13,10 @@
 - **사용자 등록 및 관리:** 사용자는 이메일과 비밀번호를 통해 계정을 생성하고 관리할 수 있습니다.
 
 ### 👥 팀원
-- **이성오:** 프로덕트 매니저 & 백엔드 프로젝트 리더 - [블로그](https://elrdan.com)
-- **김현수:** 백엔드 개발자 - [블로그](https://soo-develop.tistory.com)
-- **정광우:** 백엔드 개발자 - [블로그](https://junggw96.tistory.com)
-- **차현우:** 프론트 개발자 - [블로그](https://velog.io/@doggyfoot92)
+- **이성오:** 프로덕트 매니저 & 백엔드 리더 & 프론트 & 플러터 - [블로그](https://elrdan.com)
+- **김현수:** 백엔드 - [블로그](https://soo-develop.tistory.com)
+- **정광우:** 백엔드 - [블로그](https://junggw96.tistory.com)
+- **차현우:** 프론트 - [블로그](https://velog.io/@doggyfoot92)
 
 ### 🛠️ 기술 스택
 #### 🔙 Backend
@@ -35,6 +35,11 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
+
+#### 📱 Flutter
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-48B1F7?style=flat-square&logo=bloc&logoColor=white)
 
 #### 🚀 Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
