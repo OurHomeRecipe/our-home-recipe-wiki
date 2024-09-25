@@ -13,10 +13,11 @@
 - **사용자 등록 및 관리:** 사용자는 이메일과 비밀번호를 통해 계정을 생성하고 관리할 수 있습니다.
 
 ### 👥 팀원
-- **이성오:** 프로덕트 매니저 & 백엔드 리더 & 프론트 & 플러터 - [블로그](https://elrdan.com)
+- **이성오:** 프로덕트 매니저 & 백엔드 리더 & 프론트 - [블로그](https://elrdan.com)
 - **김현수:** 백엔드 - [블로그](https://soo-develop.tistory.com)
 - **정광우:** 백엔드 - [블로그](https://junggw96.tistory.com)
 - **차현우:** 프론트 - [블로그](https://velog.io/@doggyfoot92)
+- **이소연:** 프론트 - [블로그](https://sy-blog.tistory.com/)
 
 ### 🛠️ 기술 스택
 #### 🔙 Backend
@@ -32,7 +33,6 @@
 ![React Router DOM](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
 
