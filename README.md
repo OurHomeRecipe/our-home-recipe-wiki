@@ -13,10 +13,7 @@
 - **사용자 등록 및 관리:** 사용자는 이메일과 비밀번호를 통해 계정을 생성하고 관리할 수 있습니다.
 
 ### 👥 팀원
-- **이성오:** 프로덕트 매니저 & 백엔드 리더 & 프론트 - [블로그](https://elrdan.com)
-- **김현수:** 백엔드 - [블로그](https://soo-develop.tistory.com)
-- **정광우:** 백엔드 - [블로그](https://junggw96.tistory.com)
-- **차현우:** 프론트 - [블로그](https://velog.io/@doggyfoot92)
+- **이성오:** 프로덕트 매니저 & 백엔드 - [블로그](https://elrdan.com)
 - **이소연:** 프론트 - [블로그](https://sy-blog.tistory.com/)
 
 ### 🛠️ 기술 스택
